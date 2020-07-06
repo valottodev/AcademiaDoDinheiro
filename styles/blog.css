@@ -1,11 +1,16 @@
+div.top-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
 div.img-card {
-  min-height: 250px;
-  width: 80vw;
-  background-image: url(../assets/headway-5QgIuuBxKwM-unsplash.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
   display: flex;
   justify-content: flex-end;
+  min-height: 250px;
+  width: 80vw;
+  background-image: url(../assets/dollars.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 div.title-card {
@@ -16,8 +21,55 @@ div.title-card {
   align-items: center;
   margin: 30px 30px 0;
   padding: 30px;
+  flex-basis: 50%;
 }
 
 .text-card {
   flex-basis: 50%;
 }
+
+div.blog-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px 0;
+}
+
+div.buttons {
+  display: flex;
+}
+
+div.blog-button {
+  min-height: 40px;
+  min-width: 200px;
+  background-color: var(--main-color-light);
+  margin-right: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.clinic-tag {
+  min-width: 600px;
+  min-height: 40px;
+  background-color: var(--main-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-nav-blog {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+a.text-nav-blog {
+  color: var(--main-color);
+}
+
+h4.text-nav-blog {
+  color: var(--main-color-light);
+  margin: 0;
+}
+
