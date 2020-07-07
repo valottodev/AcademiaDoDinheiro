@@ -73,3 +73,48 @@ h4.text-nav-blog {
   margin: 0;
 }
 
+div.mid-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+div.cards {
+  display: flex;
+}
+
+div.card {
+  margin-right: 10px;
+}
+
+div.ad-mid {
+  border: 2px solid black;
+  height: 390px;
+  width: 200px;
+  margin: 15px 20px;
+}
+
+div.bot-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+div.mais {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+div.mais span {
+  background-color: var(--main-color-light);
+  width: 200px;
+  height: 40px;
+  text-align: center;
+  padding-top: 8px;
+}
+
+div.ad-responsive {
+  min-width: 70vw;
+  min-height: 200px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
