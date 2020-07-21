@@ -1,7 +1,12 @@
+div.container {
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  width: 80vw;
+}
+
 div.img-card {
   min-height: 250px;
-  width: 80vw;
-  margin: 0 auto;
   background-image: url(../assets/scott-graham-5fNmWej4tAA-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -34,11 +39,9 @@ section.cursos h2 {
 }
 
 section span {
-  height: 270px;
-  width: 400px;
   background-image: url(../assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg);
-  background-size: contain;
-  background-repeat: no-repeat;
+  background-size: cover;
+  height: 150px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;

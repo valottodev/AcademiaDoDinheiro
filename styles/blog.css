@@ -1,6 +1,8 @@
 div.top-wrapper {
   display: flex;
   flex-direction: row;
+  width: 80vw;
+  margin: 0 auto;
 }
 
 div.img-card {

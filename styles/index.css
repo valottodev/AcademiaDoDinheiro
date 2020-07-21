@@ -1,12 +1,17 @@
+div.container {
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  width: 80vw;
+}
+
 div.img-card {
   min-height: 250px;
-  width: 80vw;
   background-image: url(../assets/headway-5QgIuuBxKwM-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
   justify-content: flex-end;
-
 }
 
 div.content-card {
@@ -60,6 +65,7 @@ div.ceo-img {
 }
 
 div.ceo-img img {
+  object-fit: cover;
   height: 300px;
   width: 300px;
   border-radius: 50%;

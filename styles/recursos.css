@@ -1,17 +1,21 @@
-section {
+/* section {
   display: flex;
+} */
+
+div.container {
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  width: 80vw;
 }
 
 div.img-card {
   min-height: 250px;
-  width: 80vw;
-  margin: 0 auto;
   background-image: url(../assets/northfolk-Ok76F6yW2iA-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
   justify-content: flex-end;
-
 }
 
 div.content-card {
@@ -35,16 +39,15 @@ div.content-card {
 
 div.recursos {
   display: flex;
-  flex-direction: row;
+  justify-content: space-between;
   margin-bottom: 20vh;
   flex-wrap: wrap;
 }
 
 div.rec-item {
-  min-height: 100px;
-  min-width: 50px;
-  border: 5px solid var(--main-color);
-  margin: 20px 20px 0 0;
+  max-width: 18vw;
+  border: 2px solid var(--main-color);
+  margin: 30px 0;
 }
 
 div.rec-icon {
@@ -53,7 +56,11 @@ div.rec-icon {
 }
 
 div.rec-icon img {
+  height: 80px;
+  width: 80px;
   opacity: 0.4;
+  display: block;
+  margin: 0 auto;
 }
 
 div.rec-content {
