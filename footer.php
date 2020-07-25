@@ -52,13 +52,13 @@
         <h3>Site</h3>
         <nav>
           <ul>
-            <li><a href="#">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="#">Dicas para investir</a></li>
             <li><a href="#">Renda variável</a></li>
             <li><a href="#">Renda fixa</a></li>
-            <li><a href="#">Recursos</a></li>
-            <li><a href="#">Treinamentos</a></li>
-            <li><a href="#">Clínica financeira</a></li>
+            <li><a href="recursos.php">Recursos</a></li>
+            <li><a href="curso.php">Treinamentos</a></li>
+            <li><a href="clinica.php">Clínica financeira</a></li>
             <li><a href="#">A Academia</a></li>
           </ul>
         </nav>

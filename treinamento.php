@@ -21,7 +21,7 @@
 
       <div class="row">
         <div class="card col-3">
-          <a href="curso.html">
+          <a href="curso.php">
             <img src="assets/sean-pollock-PhYq704ffdA-unsplash.jpg" class="card-img-top" alt="...">
           </a>
           <div class="card-body">
@@ -29,7 +29,7 @@
           </div>
         </div>
         <div class="card col-3">
-          <a href="curso.html">
+          <a href="curso.php">
             <img src="assets/sean-pollock-PhYq704ffdA-unsplash.jpg" class="card-img-top" alt="...">
           </a>
           <div class="card-body">
@@ -37,7 +37,7 @@
           </div>
         </div>
         <div class="card col-3">
-          <a href="curso.html">
+          <a href="curso.php">
             <img src="assets/sean-pollock-PhYq704ffdA-unsplash.jpg" class="card-img-top" alt="...">
           </a>
           <div class="card-body">
@@ -45,7 +45,7 @@
           </div>
         </div>
         <div class="card col-3">
-          <a href="curso.html">
+          <a href="curso.php">
             <img src="assets/sean-pollock-PhYq704ffdA-unsplash.jpg" class="card-img-top" alt="...">
           </a>
           <div class="card-body">

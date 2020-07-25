@@ -17,93 +17,104 @@
     </div>
   </section>
 
-  <section>
+  <section class="recursos">
 
-    <div class="container recursos">
+    <div class="container">
 
-      <div class="col-3 rec-item">
+      <div class="row d-flex justify-content-between align-items-start flex-wrap">
+        <div class="col-md-3">
+          <div class="rec-item">
 
-        <div class="rec-icon">
-          <img src="assets/pie-chart.png" alt="Ícone">
+            <div class="rec-icon">
+              <img src="assets/pie-chart.png" alt="Ícone">
+            </div>
+
+            <div class="rec-content">
+              <h3 class="rec-text">Conteúdo no formato</h3>
+              <p class="rec-text">planilha</br>Microsoft Excel</p>
+            </div>
+
+            <div class="rec-btn">
+              <a href="#" class="btn btn-dark">Download</a>
+            </div>
+          </div>
+
         </div>
 
-        <div class="rec-content">
-          <h3 class="rec-text">Conteúdo no formato</h3>
-          <p class="rec-text">planilha</br>Microsoft Excel</p>
+        <div class="col-md-3">
+          <div class="rec-item">
+            <div class="rec-icon">
+              <img src="assets/pie-chart.png" alt="Ícone">
+            </div>
+
+            <div class="rec-content">
+              <h3 class="rec-text">Conteúdo no formato</h3>
+              <p class="rec-text">planilha</br>Microsoft Excel</p>
+            </div>
+
+            <div class="rec-btn">
+              <a href="#" class="btn btn-dark">Download</a>
+            </div>
+          </div>
+
         </div>
 
-        <div class="rec-btn">
-          <a href="#" class="btn btn-dark">Download</a>
+        <div class="col-md-3">
+          <div class="rec-item">
+
+            <div class="rec-icon">
+              <img src="assets/pie-chart.png" alt="Ícone">
+            </div>
+
+            <div class="rec-content">
+              <h3 class="rec-text">Conteúdo no formato</h3>
+              <p class="rec-text">planilha</br>Microsoft Excel</p>
+            </div>
+
+            <div class="rec-btn">
+              <a href="#" class="btn btn-dark">Download</a>
+            </div>
+          </div>
+
         </div>
 
-      </div>
+        <div class="col-md-3">
+          <div class="rec-item">
 
-      <div class="col-3 rec-item">
+            <div class="rec-icon">
+              <img src="assets/pie-chart.png" alt="Ícone">
+            </div>
 
-        <div class="rec-icon">
-          <img src="assets/pie-chart.png" alt="Ícone">
+            <div class="rec-content">
+              <h3 class="rec-text">Conteúdo no formato</h3>
+              <p class="rec-text">planilha</br>Microsoft Excel</p>
+            </div>
+
+            <div class="rec-btn">
+              <a href="#" class="btn btn-dark">Download</a>
+            </div>
+          </div>
+
         </div>
 
-        <div class="rec-content">
-          <h3 class="rec-text">Conteúdo no formato</h3>
-          <p class="rec-text">planilha</br>Microsoft Excel</p>
+        <div class="col-md-3">
+          <div class="rec-item">
+
+            <div class="rec-icon">
+              <img src="assets/pie-chart.png" alt="Ícone">
+            </div>
+
+            <div class="rec-content">
+              <h3 class="rec-text">Conteúdo no formato</h3>
+              <p class="rec-text">planilha</br>Microsoft Excel</p>
+            </div>
+
+            <div class="rec-btn">
+              <a href="#" class="btn btn-dark">Download</a>
+            </div>
+          </div>
+
         </div>
-
-        <div class="rec-btn">
-          <a href="#" class="btn btn-dark">Download</a>
-        </div>
-
-      </div>
-
-      <div class="col-3 rec-item">
-
-        <div class="rec-icon">
-          <img src="assets/pie-chart.png" alt="Ícone">
-        </div>
-
-        <div class="rec-content">
-          <h3 class="rec-text">Conteúdo no formato</h3>
-          <p class="rec-text">planilha</br>Microsoft Excel</p>
-        </div>
-
-        <div class="rec-btn">
-          <a href="#" class="btn btn-dark">Download</a>
-        </div>
-
-      </div>
-
-      <div class="col-3 rec-item">
-
-        <div class="rec-icon">
-          <img src="assets/pie-chart.png" alt="Ícone">
-        </div>
-
-        <div class="rec-content">
-          <h3 class="rec-text">Conteúdo no formato</h3>
-          <p class="rec-text">planilha</br>Microsoft Excel</p>
-        </div>
-
-        <div class="rec-btn">
-          <a href="#" class="btn btn-dark">Download</a>
-        </div>
-
-      </div>
-
-      <div class="col-3 rec-item">
-
-        <div class="rec-icon">
-          <img src="assets/pie-chart.png" alt="Ícone">
-        </div>
-
-        <div class="rec-content">
-          <h3 class="rec-text">Conteúdo no formato</h3>
-          <p class="rec-text">planilha</br>Microsoft Excel</p>
-        </div>
-
-        <div class="rec-btn">
-          <a href="#" class="btn btn-dark">Download</a>
-        </div>
-
       </div>
 
     </div>
