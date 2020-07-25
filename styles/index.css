@@ -6,10 +6,12 @@ div.container {
 }
 
 div.img-card {
+  width: 100%;
   min-height: 250px;
-  background-image: url(../assets/headway-5QgIuuBxKwM-unsplash.jpg);
+  margin: 40px 0;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   display: flex;
   justify-content: flex-end;
 }
@@ -17,57 +19,87 @@ div.img-card {
 div.content-card {
   color: white;
   background-color: rgba(60, 107, 106, 0.8);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   margin: 30px 30px 0;
-  padding: 30px;
+  padding: 25px 35px;
   width: 700px;
+  max-width: 100%;
+  /* flex-wrap: wrap; */
 }
 
-.text-card {
-  flex-basis: 50%;
+.text-card p {
+
+  flex: 2;
+
+}
+
+.banner h1 {
+  font-family: "Roboto Black";
+  color: #8BF7F6;
+  font-size: 45px;
+  line-height: 80px;
 }
 
 .button-card {
-  padding: 5vw;
+  flex: 1;
 }
 
-div.intro-text {
-  margin-top: 50px;
-  font-size: larger;
-  margin-bottom: 50px;
+.text-card a {
+  margin: 10px;
 }
 
-div.intro-text span {
+section.intro-text {
+  margin: 70px auto;
+}
+
+section.intro-text p {
+  font-size: 20px;
+}
+
+section.intro-text .color-primary {
   font-weight: bold;
-  color: var(--main-color-light);
+  color: var(--main-color);
 }
 
-section.about {
+section.about,
+section.proposta {
   background-color: var(--main-color);
-  color: white;
-  font-size: large;
+  color: #fff;
+  padding: 80px 0 60px;
 }
 
-div.diferenciais {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
+section.about h2,
+section.proposta h2 {
+  font-family: "Roboto Black";
+  color: #8BF7F6;
+  font-size: 45px;
+  line-height: 40px;
+  margin-bottom: 40px;
+}
+
+section.about p,
+section.proposta p {
+  font-size: 18px;
+  line-height: 40px;
+}
+
+section.proposta .btn {
+  margin: 30px 0;
 }
 
 div.ceo-img {
-  height: 500px;
-  width: 500px;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-div.ceo-img img {
-  object-fit: cover;
-  height: 300px;
-  width: 300px;
+div.ceo-img {
+  max-width: 100%;
+  width: 400px;
+  height: 400px;
+  background-position: center;
+  background-size: cover;
+  display: block;
   border-radius: 50%;
 }
 
@@ -75,10 +107,6 @@ div.diferenciais .text {
   width: 800px;
 }
 
-div.proposta {
-  width: 70vw;
-  margin: 0 auto;
-}
 
 .about a {
   margin: 60px 10vw;
