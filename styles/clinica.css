@@ -1,43 +1,43 @@
-main {
+main.clinica {
   width: 80vw;
   margin: 0 auto;
 }
 
-main h1 {
+main.clinica h1 {
   text-align: center;
   margin-bottom: 5vh;
 }
 
-main li {
+main.clinica li {
   text-transform: none;
   font-weight: normal;
   padding-top: 10px;
 }
 
-main span {
+main.clinica span {
   font-weight: bold;
 }
 
-div.wrapper {
+main.clinica div.wrapper {
   display: flex;
   justify-content: space-around;
   align-items: center;
   padding: 30px;
 }
 
-div.img img {
+main.clinica div.img img {
   height: 200px;
 
 }
 
-div.txt {
+main.clinica div.txt {
   padding: 60px;
 }
 
-ol li {
+main.clinica ol li {
   list-style-position: inside;
 }
 
-main form {
+main.clinica form {
   margin-bottom: 5vh;
 }

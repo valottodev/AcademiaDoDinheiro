@@ -25,7 +25,7 @@
   <section class="about">
     <div class="container">
       <div class="diferenciais row d-flex justify-content-between align-items-center">
-        <div class="col-md-5">
+        <div class="col-md-5 text-center">
           <div class="ceo-img" style="background-image: url('assets/linkedin-sales-navigator-pAtA8xe_iVM-unsplash.jpg')">
           </div>
         </div>

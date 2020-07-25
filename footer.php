@@ -75,7 +75,9 @@
       </div>
 
       <div class="logo col-md-3">
-        <img class="logo img-fluid" src="assets/logo-white.svg" alt="Academia do Dinheiro" />
+        <a href="index.php">
+          <img class="logo img-fluid" src="assets/logo-white.svg" alt="Academia do Dinheiro" />
+        </a>
       </div>
     </div>
   </div>

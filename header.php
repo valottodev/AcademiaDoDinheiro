@@ -9,12 +9,20 @@
   <link rel="stylesheet" href="styles/compiler/style.css" />
   <link rel="stylesheet" href="styles/main.css" />
   <link rel="stylesheet" href="styles/index.css" />
+  <link rel="stylesheet" href="styles/recursos.css">
+  <link rel="stylesheet" href="styles/cursos.css">
+  <link rel="stylesheet" href="styles/treinamento.css">
+  <link rel="stylesheet" href="styles/clinica.css">
+  <link rel="stylesheet" href="styles/blog.css">
+
 </head>
 
 <body>
   <header class="d-flex flex-column">
     <div class="d-flex container d-flex justify-content-between flex-wrap">
-      <img class="logo" src="assets/logo.svg" alt="Academia do Dinheiro" />
+      <a href="index.php">
+        <img class="logo" src="assets/logo.svg" alt="Academia do Dinheiro" />
+      </a>
       <div class="container-anuncio d-flex justify-content-center align-items-center"><span>Anuncie aqui</span></div>
     </div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -25,19 +33,19 @@
         <div class="collapse navbar-collapse" id="navbarSite">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a href="index.html" class="nav-link active">A academia</a>
+              <a href="index.php" class="nav-link active">A academia</a>
             </li>
             <li class="nav-item">
-              <a href="recursos.html" class="nav-link">Recursos</a>
+              <a href="recursos.php" class="nav-link">Recursos</a>
             </li>
             <li class="nav-item">
-              <a href="treinamento.html" class="nav-link">Treinamento</a>
+              <a href="treinamento.php" class="nav-link">Treinamento</a>
             </li>
             <li class="nav-item">
-              <a href="clinica.html" class="nav-link">Clínica financeira</a>
+              <a href="clinica.php" class="nav-link">Clínica financeira</a>
             </li>
             <li class="nav-item">
-              <a href="blog.html" class="nav-link">Blog</a>
+              <a href="blog.php" class="nav-link">Blog</a>
             </li>
           </ul>
         </div>

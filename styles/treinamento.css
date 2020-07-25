@@ -1,11 +1,11 @@
-div.container {
+/* div.container {
   display: block;
   margin: 0 auto;
   padding: 0;
   width: 80vw;
-}
+} */
 
-div.img-card {
+main.treinamento div.img-card {
   min-height: 250px;
   background-image: url(../assets/scott-graham-5fNmWej4tAA-unsplash.jpg);
   background-repeat: no-repeat;
@@ -14,7 +14,7 @@ div.img-card {
   justify-content: flex-end;
 }
 
-div.content-card {
+main.treinamento div.content-card {
   color: white;
   background-color: rgba(60, 107, 106, 0.8);
   align-items: center;
@@ -23,22 +23,22 @@ div.content-card {
   width: 700px;
 }
 
-.text-card {
+main.treinamento .text-card {
   padding: 20px;
 }
 
-section.cursos {
+main.treinamento section.cursos {
   display: flex;
   padding: 30px;
 }
 
-section.cursos h2 {
+main.treinamento section.cursos h2 {
   font-size: xx-large;
   color: var(--main-color);
   margin: 30px;
 }
 
-section span {
+main.treinamento section span {
   background-image: url(../assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg);
   background-size: cover;
   height: 150px;
@@ -49,41 +49,41 @@ section span {
   margin: 10px 10px 10px 0;
 }
 
-section span img {
+main.treinamento section span img {
   height: 50px;
   width: 50px;
   padding: 5px;
   margin: 10px;
 }
 
-div.content-wrap {
+main.treinamento div.content-wrap {
   display: flex;
   flex-wrap: wrap;
 }
 
-div.person {
+main.treinamento div.person {
   display: flex;
   flex-direction: column;
   color: var(--main-color);
   margin: 0;
 }
 
-div.quem-mais {
+main.treinamento div.quem-mais {
   min-height: 90px;
   border: 1px solid black;
-  margin: 5px ;
+  margin: 5px;
 }
 
-div.garantia {
+main.treinamento div.garantia {
   justify-content: center;
 }
 
-div.content-wrap img.garantia-logo {
+main.treinamento div.content-wrap img.garantia-logo {
   width: 200px;
   height: 200px;
   margin-bottom: 50px;
 }
 
-div.content-wrap p {
+main.treinamento div.content-wrap p {
   font-size: large;
 }

@@ -1,8 +1,10 @@
-main h1,h2,h3 {
+main.curso h1,
+main.curso h2,
+main.curso h3 {
   color: var(--main-color);
 }
 
-div.img-head {
+main.curso div.img-head {
   height: 250px;
   background-image: url(../assets/low-angle-photography-of-building-structure-1.png);
   background-repeat: no-repeat;
@@ -10,12 +12,12 @@ div.img-head {
   margin: 30px;
 }
 
-div.lateral {
+main.curso div.lateral {
   color: var(--main-color);
 
 }
 
-div.curso {
+main.curso div.curso {
   width: 250px;
   height: 250px;
   margin: 10px;
@@ -23,23 +25,23 @@ div.curso {
   background-color: var(--main-color);
 }
 
-div.thumb {
+main.curso div.thumb {
   height: 150px;
   width: 100%;
   background-image: url(../assets/Grupo\ de\ máscara\ 1.png);
 }
 
-div.description {
+main.curso div.description {
   color: var(--main-color-light);
   padding: 10px;
 }
 
-div.description h1 {
+main.curso div.description h1 {
   color: var(--main-color-light);
   font-size: 35px;
 }
 
-div.button {
+main.curso div.button {
   width: 250px;
   margin: 10px;
   background-color: var(--main-color-light);
@@ -48,23 +50,23 @@ div.button {
   height: 70px;
 }
 
-div.side-content {
+main.curso div.side-content {
   margin-left: 15px;
 }
 
-div.side-content li {
+main.curso div.side-content li {
   margin-left: 15px;
 }
 
-div.garantia img{
+main.curso div.garantia img {
   width: 180px;
   padding: 20px;
 }
 
-div.pagamentos span {
+main.curso div.pagamentos span {
   font-weight: bold;
 }
 
-div.pagamentos li {
+main.curso div.pagamentos li {
   margin-top: 10px;
 }
