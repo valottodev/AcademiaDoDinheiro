@@ -1,0 +1,70 @@
+main h1,h2,h3 {
+  color: var(--main-color);
+}
+
+div.img-head {
+  height: 250px;
+  background-image: url(../assets/low-angle-photography-of-building-structure-1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 30px;
+}
+
+div.lateral {
+  color: var(--main-color);
+
+}
+
+div.curso {
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+  margin-top: -180px;
+  background-color: var(--main-color);
+}
+
+div.thumb {
+  height: 150px;
+  width: 100%;
+  background-image: url(../assets/Grupo\ de\ máscara\ 1.png);
+}
+
+div.description {
+  color: var(--main-color-light);
+  padding: 10px;
+}
+
+div.description h1 {
+  color: var(--main-color-light);
+  font-size: 35px;
+}
+
+div.button {
+  width: 250px;
+  margin: 10px;
+  background-color: var(--main-color-light);
+  color: var(--main-color);
+  text-align: center;
+  height: 70px;
+}
+
+div.side-content {
+  margin-left: 15px;
+}
+
+div.side-content li {
+  margin-left: 15px;
+}
+
+div.garantia img{
+  width: 180px;
+  padding: 20px;
+}
+
+div.pagamentos span {
+  font-weight: bold;
+}
+
+div.pagamentos li {
+  margin-top: 10px;
+}

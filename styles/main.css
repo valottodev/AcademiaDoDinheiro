@@ -29,6 +29,8 @@
 
 body {
   font-family: "Roboto";
+  margin: 0;
+  padding: 0;
 }
 
 header nav ul li {
