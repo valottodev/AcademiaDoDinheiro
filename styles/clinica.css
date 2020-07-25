@@ -37,3 +37,7 @@ div.txt {
 ol li {
   list-style-position: inside;
 }
+
+main form {
+  margin-bottom: 5vh;
+}
