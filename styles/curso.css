@@ -1,9 +1,18 @@
+main h1,h2,h3 {
+  color: var(--main-color);
+}
+
 div.img-head {
   height: 250px;
   background-image: url(../assets/low-angle-photography-of-building-structure-1.png);
   background-repeat: no-repeat;
   background-size: cover;
   margin: 30px;
+}
+
+div.lateral {
+  color: var(--main-color);
+
 }
 
 div.curso {
@@ -25,6 +34,11 @@ div.description {
   padding: 10px;
 }
 
+div.description h1 {
+  color: var(--main-color-light);
+  font-size: 35px;
+}
+
 div.button {
   width: 250px;
   margin: 10px;
@@ -32,4 +46,25 @@ div.button {
   color: var(--main-color);
   text-align: center;
   height: 70px;
+}
+
+div.side-content {
+  margin-left: 15px;
+}
+
+div.side-content li {
+  margin-left: 15px;
+}
+
+div.garantia img{
+  width: 180px;
+  padding: 20px;
+}
+
+div.pagamentos span {
+  font-weight: bold;
+}
+
+div.pagamentos li {
+  margin-top: 10px;
 }

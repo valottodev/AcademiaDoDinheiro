@@ -1,7 +1,7 @@
 :root {
   --menu-color: #474640;
   --main-color: #3C6B6A;
-  --main-color-light: #7FDEDD;
+  --main-color-light: #8BF7F6;
 }
 
 * {
@@ -9,9 +9,11 @@
   /* border: 1px solid red; */
   box-sizing: border-box;
 }
-
 ul li {
   list-style: none;
+}
+
+header ul li {
   text-transform: uppercase;
   font-weight: bold;
 }
