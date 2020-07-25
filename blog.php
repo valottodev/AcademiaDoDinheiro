@@ -10,7 +10,7 @@
       </div>
 
       <div class="card col-3">
-        <a href="blog-post.html">
+        <a href="blog-post.php">
           <img src="assets/finance 640x426.jpg" class="card-img-top" alt="..." />
         </a>
         <div class="card-body">
