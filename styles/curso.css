@@ -2,72 +2,106 @@ main.curso h1,
 main.curso h2,
 main.curso h3 {
   color: var(--main-color);
-  font-family: Roboto Black;
+  font-family: "Roboto Black";
 }
 
-main.curso div.img-head {
+main.curso h2 {
+  font-size: 35px;
+}
+
+main.curso div.banner-post {
   height: 250px;
-  background-image: url(../assets/low-angle-photography-of-building-structure-1.png);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin: 30px;
+  margin: 15px 0 50px;
 }
 
 main.curso div.lateral {
   color: var(--main-color);
-
 }
 
 main.curso div.curso {
-  width: 250px;
-  height: 250px;
-  margin: 10px;
-  margin-top: -180px;
+  width: 100%;
+  /* height: 250px; */
+  margin: -200px 0 0;
   background-color: var(--main-color);
 }
 
 main.curso div.thumb {
   height: 150px;
   width: 100%;
-  background-image: url(../assets/curso01.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 main.curso div.description {
   color: var(--main-color-light);
   padding: 10px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 main.curso div.description h1 {
   color: var(--main-color-light);
-  font-size: 35px;
+  font-size: 30px;
+  font-family: "Roboto Black"
 }
 
-main.curso div.button {
-  width: 250px;
-  margin: 10px;
-  background-color: var(--main-color-light);
+main.curso aside {
+  margin-bottom: 50px;
+}
+
+main.curso aside .btn.btn-primary {
+  width: 100%;
+  margin: 30px 0;
+  font-size: 22px;
+}
+
+main.curso aside ul {
+  list-style: none;
+  padding: 0;
+}
+
+main.curso aside section {
+  padding-left: 10px;
+  border-left: 3px solid var(--main-color);
   color: var(--main-color);
-  text-align: center;
-  height: 70px;
+  margin: 0 0 30px;
 }
 
-main.curso div.side-content {
-  margin-left: 15px;
+main.curso aside a:any-link {
+  color: var(--main-color);
+  text-decoration: none;
+  font-size: 15px;
 }
 
-main.curso div.side-content li {
-  margin-left: 15px;
+main.curso aside h4 {
+  font-size: 17px;
+  font-weight: bold;
+  font-family: "Roboto";
+}
+
+main.curso .conteudo {
+  margin-bottom: 200px;
+}
+
+main.curso .conteudo h2 {
+  margin: 20px 0;
+}
+
+main.curso .conteudo p {
+  line-height: 30px;
+  margin: 15px 0;
+}
+
+main.curso aside li {
+  margin: 10px 0;
 }
 
 main.curso div.garantia img {
-  width: 180px;
+  width: 200px;
   padding: 20px;
-}
-
-main.curso div.pagamentos span {
-  font-weight: bold;
-}
-
-main.curso div.pagamentos li {
-  margin-top: 10px;
 }

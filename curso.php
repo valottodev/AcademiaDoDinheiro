@@ -1,19 +1,16 @@
 <?php require_once('header.php'); ?>
 <main class="curso">
+  <section class="container-fluid">
+    <div class="banner-post" style="background-image: url('assets/low-angle-photography-of-building-structure-1.png');"></div>
+  </section>
   <section>
-
-    <div class="img-head">
-    </div>
     <div class="container">
       <div class="row">
         <div class="col-md-8 conteudo">
           <h2>Nome do Curso</h2>
-          <p>
-            Nunca mais perca seu tempo precioso quebrando a cabeça para administrar as contas da sua empresa de forma eficaz. Comece ainda hoje a criar uma Gestão Financeira de Negócios e comece sua nova rotina altamente produtiva, inteligente e lucrativa.
-          </p>
+          <p>Nunca mais perca seu tempo precioso quebrando a cabeça para administrar as contas da sua empresa de forma eficaz. Comece ainda hoje a criar uma Gestão Financeira de Negócios e comece sua nova rotina altamente produtiva, inteligente e lucrativa.</p>
           <p>Menos prejuízos, mais controle e mais LUCRO.</p>
-          <p>
-            Depois de começar a usar a estratégia da gestão financeira de negócios, você finalmente será capaz de criar uma rotina altamente produtiva, dia após dia. Você nunca mais vai pedir empréstimos e pagar juros altos que levam sua empresa para o prejuízo e que te distanciam de gerar LUCRO, dia após dia.
+          <p>Depois de começar a usar a estratégia da gestão financeira de negócios, você finalmente será capaz de criar uma rotina altamente produtiva, dia após dia. Você nunca mais vai pedir empréstimos e pagar juros altos que levam sua empresa para o prejuízo e que te distanciam de gerar LUCRO, dia após dia.
           </p>
           <p>
             Clique aqui para não perder sua chance de ter acesso completo ao método Gestão Vencedora de Finanças, capaz de mudar sua visão financeira, construir uma empresa sólida e gerar mais crescimento.
@@ -38,53 +35,47 @@
           <p>Chega de ficar se culpando porquê você não está gerando lucro ou se arrepender com a falta de controle financeiro.</p>
         </div>
 
-        <div class="col-md-4 lateral">
-
+        <aside class="col-md-3 offset-md-1 lateral">
           <div class="curso">
-            <div class="thumb"></div>
+            <div class="thumb" style="background-image: url('assets/low-angle-photography-of-building-structure-1.png');"></div>
             <div class="description">
               <h1>Nome do Curso</h1>
             </div>
           </div>
-
-          <a href="#">
-            <div class="button">
-              <h3>Comprar</h3>
-            </div>
-          </a>
-
-          <div class="side-content">
-            <div class="conteudo">
-              <p><strong>Conteúdo</strong></p>
-              <ul>
-                <li>Home</li>
-                <li>Dicas para investir</li>
-                <li>Renda variável</li>
-                <li>Renda fixa</li>
-                <li>Recursos</li>
-                <li>Treinamentos</li>
-                <li>Clínica financeira</li>
-                <li>A Academia</li>
-              </ul>
-            </div>
-            <div class="side-bonus">
-              <p><strong>Bônus</strong></p>
-              <ul>
-                <li>Conteúdo para empreendedores</li>
-                <li>planilhas</li>
-              </ul>
-            </div>
-            <div class="garantia">
-              <img src="assets/img-1.png" alt="">
-            </div>
-            <div class="pagamentos">
-              <ul>
-                <li>Pague em 12x de <span>R$000,00</span><br>Sem juros no Cartão de Crédito</li>
-                <li>Ou com 10% a vista no Boleto</li>
-              </ul>
-            </div>
+          <a href="#" class="btn btn-primary">comprar</a>
+          <section>
+            <h4>Conteúdo</h4>
+            <ul>
+              <li><a href="#">Home</a></li>
+              <li><a href="#">Dicas para investir</a></li>
+              <li><a href="#">Renda variável</a></li>
+              <li><a href="#">Renda fixa</a></li>
+              <li><a href="#">Recursos</a></li>
+              <li><a href="#">Treinamentos</a></li>
+              <li><a href="#">Clínica financeira</a></li>
+              <li><a href="#">A Academia</a></li>
+            </ul>
+          </section>
+          <section>
+            <h4>Bônus</h4>
+            <ul>
+              <li>Conteúdo para empreendedores</li>
+              <li>Planilhas</li>
+            </ul>
+          </section>
+          <div class="garantia my-5">
+            <img src="assets/img-1.png" alt="">
           </div>
-        </div>
+          <section class="pagamentos">
+            <p>
+              Pague em 12x de <strong>R$000,00</strong>
+              <br>Sem juros no Cartão de Crédito
+              <br><br>
+              Ou com 10% a vista no Boleto
+            </p>
+            </ul>
+          </section>
+        </aside>
       </div>
     </div>
   </section>
