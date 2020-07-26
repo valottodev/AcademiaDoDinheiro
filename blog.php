@@ -1,6 +1,5 @@
 <?php require_once('header.php'); ?>
-<main>
-
+<main class="blog">
   <section>
     <div class="top-wrapper">
       <div class="img-card">

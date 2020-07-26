@@ -223,3 +223,15 @@ footer .navigation li a {
   line-height: 24px;
   font-size: 22px;
 }
+
+.btn.btn-secondary {
+  background-color: var(--button-primary-color);
+  color: #3C6B6A;
+  text-transform: uppercase;
+  padding: 30px 40px;
+  border: none;
+  border-radius: 0;
+  font-family: "Roboto Black";
+  line-height: 24px;
+  font-size: 22px;
+}

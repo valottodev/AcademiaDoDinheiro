@@ -1,11 +1,11 @@
-div.top-wrapper {
+main.blog div.top-wrapper {
   display: flex;
   flex-direction: row;
   width: 80vw;
   margin: 0 auto;
 }
 
-div.img-card {
+main.blog div.img-card {
   display: flex;
   justify-content: flex-end;
   min-height: 250px;
@@ -15,7 +15,7 @@ div.img-card {
   background-size: cover;
 }
 
-div.title-card {
+main.blog div.title-card {
   color: white;
   background-color: rgba(60, 107, 106, 0.8);
   display: flex;
@@ -26,11 +26,11 @@ div.title-card {
   flex-basis: 50%;
 }
 
-.text-card {
+main.blog .text-card {
   flex-basis: 50%;
 }
 
-div.blog-nav {
+main.blog div.blog-nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -38,11 +38,11 @@ div.blog-nav {
   width: 90vw;
 }
 
-div.buttons {
+main.blog div.buttons {
   display: flex;
 }
 
-div.blog-button {
+main.blog div.blog-button {
   min-height: 40px;
   min-width: 200px;
   background-color: var(--main-color-light);
@@ -52,7 +52,7 @@ div.blog-button {
   align-items: center;
 }
 
-div.clinic-tag {
+main.blog div.clinic-tag {
   min-width: 600px;
   min-height: 40px;
   background-color: var(--main-color);
@@ -61,53 +61,53 @@ div.clinic-tag {
   align-items: center;
 }
 
-.text-nav-blog {
+main.blog .text-nav-blog {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 15px;
 }
 
-a.text-nav-blog {
+main.blog a.text-nav-blog {
   color: var(--main-color);
 }
 
-h4.text-nav-blog {
+main.blog h4.text-nav-blog {
   color: var(--main-color-light);
   margin: 0;
 }
 
-div.mid-wrapper {
+main.blog div.mid-wrapper {
   display: flex;
   align-items: center;
 }
 
-div.cards {
+main.blog div.cards {
   display: flex;
 }
 
-div.card {
+main.blog div.card {
   margin-right: 10px;
 }
 
-div.ad-mid {
+main.blog div.ad-mid {
   border: 2px solid black;
   height: 390px;
   width: 200px;
   margin: 15px 20px;
 }
 
-div.bot-wrapper {
+main.blog div.bot-wrapper {
   display: flex;
   justify-content: space-between;
 }
 
-div.mais {
+main.blog div.mais {
   display: flex;
   justify-content: center;
   margin-bottom: 20px;
 }
 
-div.mais span {
+main.blog div.mais span {
   background-color: var(--main-color-light);
   width: 200px;
   height: 40px;
@@ -115,7 +115,7 @@ div.mais span {
   padding-top: 8px;
 }
 
-div.ad-responsive {
+main.blog div.ad-responsive {
   min-width: 70vw;
   min-height: 200px;
   border: 1px solid black;
