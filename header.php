@@ -10,8 +10,8 @@
   <link rel="stylesheet" href="styles/main.css" />
   <link rel="stylesheet" href="styles/index.css" />
   <link rel="stylesheet" href="styles/recursos.css">
-  <link rel="stylesheet" href="styles/cursos.css">
   <link rel="stylesheet" href="styles/treinamento.css">
+  <link rel="stylesheet" href="styles/curso.css">
   <link rel="stylesheet" href="styles/clinica.css">
   <link rel="stylesheet" href="styles/blog.css">
   <link rel="stylesheet" href="styles/blog-post.css">

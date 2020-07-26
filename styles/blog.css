@@ -36,6 +36,8 @@ main.blog div.blog-nav {
   align-items: center;
   margin: 30px auto;
   width: 90vw;
+  max-width: 100%;
+  flex-wrap: wrap;
 }
 
 main.blog div.buttons {

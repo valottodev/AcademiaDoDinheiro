@@ -1,33 +1,39 @@
 <?php require_once('header.php'); ?>
 <main class="treinamento">
-  <section>
+  <section class="banner">
     <div class="container">
-      <div class="img-card">
-        <div class="content-card">
-          <div class="text-card">
-            <h1>Treinamentos</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, pariatur veritatis reprehenderit harum sed tenetur porro distinctio dolore ducimus esse perferendis qui debitis recusandae voluptatem ad natus, nam a exercitationem?</p>
+      <div class="img-card" style="background-image: url('assets/banner.png')">
+        <div class="content-card d-flex justify-content-between align-items-center flex-wrap flex-column flex-wrap">
+          <div class="titulo-card w-100 text-left">
+            <h1>A Academia</h1>
+          </div>
+          <div class="text-card d-flex justify-content-between align-items-start flex-wrap">
+            <p>A Academia do Dinheiro fornece conhecimento capaz de melhorar o orçamento pessoal e familiar, aumentar a rentabilidade de aplicações financeiras melhorando, e perpetuando o padrão de consumo e renda de famílias e indivíduos.</p>
+            <a href="#" class="btn btn-primary">Participe</a>
           </div>
         </div>
       </div>
     </div>
   </section>
-
   <section class="cursos">
 
     <div class="container">
 
-      <h2 class="row">Mais de 15 mil pessoas já treinaram conosco</h2>
+    <div class="row">
+      <div class="col"><h2>Mais de 15 mil pessoas já treinaram conosco</h2></div>
+    </div>      
 
       <div class="row">
-        <div class="card col-3">
-          <a href="curso.php">
-            <img src="assets/sean-pollock-PhYq704ffdA-unsplash.jpg" class="card-img-top" alt="...">
-          </a>
-          <div class="card-body">
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+      <article class="col-md-3">
+        <a href="curso.php">
+          <div class="thumb" style="background-image: url(assets/curso01.svg);"></div>
+          <div class="description" style="background-color: #3C6B6A;">
+            <h3>Método Fast de enriquecimento</h3>
           </div>
-        </div>
+        </a>
+      </article>
+      
         <div class="card col-3">
           <a href="curso.php">
             <img src="assets/sean-pollock-PhYq704ffdA-unsplash.jpg" class="card-img-top" alt="...">
