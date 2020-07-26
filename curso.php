@@ -1,10 +1,12 @@
 <?php require_once('header.php'); ?>
-<main class="curso mb-5">
-  <section>
+<main class="curso">
+  <section class="container-fluid">
     <div class="banner-post" style="background-image: url('assets/low-angle-photography-of-building-structure-1.png');"></div>
+  </section>
+  <section>
     <div class="container">
       <div class="row">
-        <div class="col-md-8 conteudo mb-5">
+        <div class="col-md-8 conteudo">
           <h2>Nome do Curso</h2>
           <p>Nunca mais perca seu tempo precioso quebrando a cabeça para administrar as contas da sua empresa de forma eficaz. Comece ainda hoje a criar uma Gestão Financeira de Negócios e comece sua nova rotina altamente produtiva, inteligente e lucrativa.</p>
           <p>Menos prejuízos, mais controle e mais LUCRO.</p>
@@ -41,7 +43,7 @@
             </div>
           </div>
           <a href="#" class="btn btn-primary">comprar</a>
-          <section class="conteudo">
+          <section>
             <h4>Conteúdo</h4>
             <ul>
               <li><a href="#">Home</a></li>
@@ -54,7 +56,7 @@
               <li><a href="#">A Academia</a></li>
             </ul>
           </section>
-          <section class="side-bonus">
+          <section>
             <h4>Bônus</h4>
             <ul>
               <li>Conteúdo para empreendedores</li>

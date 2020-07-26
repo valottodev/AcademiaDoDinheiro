@@ -5,12 +5,16 @@ main.curso h3 {
   font-family: "Roboto Black";
 }
 
+main.curso h2 {
+  font-size: 35px;
+}
+
 main.curso div.banner-post {
   height: 250px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin: 30px 30px 80px;
+  margin: 15px 0 50px;
 }
 
 main.curso div.lateral {
@@ -20,7 +24,7 @@ main.curso div.lateral {
 main.curso div.curso {
   width: 100%;
   /* height: 250px; */
-  margin: -180px 0 0;
+  margin: -200px 0 0;
   background-color: var(--main-color);
 }
 
@@ -78,6 +82,10 @@ main.curso aside h4 {
   font-size: 17px;
   font-weight: bold;
   font-family: "Roboto";
+}
+
+main.curso .conteudo {
+  margin-bottom: 200px;
 }
 
 main.curso .conteudo h2 {
