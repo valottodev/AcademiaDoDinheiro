@@ -1,3 +1,7 @@
+main.treinamento h1,h2,h3,h4 {
+  font-family: Roboto Black;
+}
+
 main.treinamento div.img-card {
   min-height: 250px;
   background-image: url(../assets/scott-graham-5fNmWej4tAA-unsplash.jpg);
@@ -10,10 +14,12 @@ main.treinamento div.img-card {
 main.treinamento div.content-card {
   color: white;
   background-color: rgba(60, 107, 106, 0.8);
+  display: flex;
+  justify-content: space-between;
   align-items: center;
   margin: 30px 30px 0;
   padding: 30px;
-  width: 700px;
+  width: 40%;
 }
 
 main.treinamento .text-card {
@@ -28,18 +34,41 @@ main.treinamento section.cursos {
 main.treinamento section.cursos h2 {
   font-size: xx-large;
   color: var(--main-color);
-  margin: 30px;
+  margin: 30px 0;
 }
 
 main.treinamento section.cursos div.thumb {
   width: 100%;
-  height: 240px;
+  height: 200px;
   background-size: cover;
   background-position: center;
 }
 
-main.treinamento section span {
-  background-image: url(../assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg);
+main.treinamento section.cursos div.description {
+  height: 250px;
+  padding: 10px;
+}
+
+main.treinamento section.cursos div.description h3 {
+  margin-top: 10px;
+  font-size: 22px;
+  margin-bottom: 50px;
+  min-height: 70px;
+}
+
+main.treinamento section.cursos div.description p {
+  font-size: 14px;
+
+}
+
+main.treinamento div.person {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  color: var(--main-color);
+}
+
+main.treinamento div.person div.person-img {  
   background-size: cover;
   height: 150px;
   display: flex;
@@ -49,39 +78,31 @@ main.treinamento section span {
   margin: 10px 10px 10px 0;
 }
 
-main.treinamento section span img {
+main.treinamento div.person span {
+  background-image: url(../assets/ic_play_circle_filled_24px.svg);
+  background-size: cover;
   height: 50px;
   width: 50px;
   padding: 5px;
   margin: 10px;
 }
 
-main.treinamento div.content-wrap {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-main.treinamento div.person {
-  display: flex;
-  flex-direction: column;
-  color: var(--main-color);
-  margin: 0;
-}
-
 main.treinamento div.quem-mais {
-  min-height: 90px;
   border: 1px solid black;
-  margin: 5px;
+  height: 90px;
 }
 
 main.treinamento div.garantia {
   justify-content: center;
 }
 
-main.treinamento div.content-wrap img.garantia-logo {
+main.treinamento div.garantia div.garantia-logo {
+  background-image: url(../assets/img-119702-20170424153829.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
   width: 200px;
   height: 200px;
-  margin-bottom: 50px;
+  margin: 50px auto;
 }
 
 main.treinamento div.content-wrap p {
