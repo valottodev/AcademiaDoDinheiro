@@ -8,7 +8,7 @@
             <h1>Recursos</h1>
           </div>
           <div class="text-card d-flex justify-content-between align-items-start flex-wrap">
-            <p>Separamos diversos arquivos em planilhas e conteúdos em e-books que vão facilitar sua gestão financeira e
+            <p>Separamos diversos arquivos em Planilhas e conteúdos em e-books que vão facilitar sua gestão financeira e
               aprimorar seus conhecimentos.</p>
           </div>
         </div>
@@ -16,102 +16,107 @@
     </div>
   </section>
 
-  <section class="recursos">
+  <section class="lista-recursos">
     <div class="container">
-      <div class="row d-flex justify-content-between align-items-start flex-wrap">
-        <div class="col-md-3">
+      <div class="row d-flex justify-content-center align-items-center flex-wrap">
+        <article class="col-md-3">
           <div class="rec-item">
-            <div class="rec-icon">
-              <img src="assets/pie-chart.png" alt="Ícone">
-            </div>
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
-              <p class="rec-text">planilha</br>Microsoft Excel</p>
+              <p class="rec-text">Planilha</br>Microsoft Excel</p>
             </div>
             <div class="rec-btn">
               <a href="#" class="btn btn-secondary">Download</a>
             </div>
           </div>
-        </div>
-
-        <div class="col-md-3">
+        </article>
+        <article class="col-md-3">
           <div class="rec-item">
-            <div class="rec-icon">
-              <img src="assets/pie-chart.png" alt="Ícone">
-            </div>
-
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
-              <p class="rec-text">planilha</br>Microsoft Excel</p>
+              <p class="rec-text">Planilha</br>Microsoft Excel</p>
             </div>
-
             <div class="rec-btn">
               <a href="#" class="btn btn-secondary">Download</a>
             </div>
           </div>
-
-        </div>
-
-        <div class="col-md-3">
+        </article>
+        <article class="col-md-3">
           <div class="rec-item">
-
-            <div class="rec-icon">
-              <img src="assets/pie-chart.png" alt="Ícone">
-            </div>
-
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
-              <p class="rec-text">planilha</br>Microsoft Excel</p>
+              <p class="rec-text">Planilha</br>Microsoft Excel</p>
             </div>
-
             <div class="rec-btn">
               <a href="#" class="btn btn-secondary">Download</a>
             </div>
           </div>
-
-        </div>
-
-        <div class="col-md-3">
+        </article>
+        <article class="col-md-3">
           <div class="rec-item">
-
-            <div class="rec-icon">
-              <img src="assets/pie-chart.png" alt="Ícone">
-            </div>
-
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
-              <p class="rec-text">planilha</br>Microsoft Excel</p>
+              <p class="rec-text">Planilha</br>Microsoft Excel</p>
             </div>
-
             <div class="rec-btn">
               <a href="#" class="btn btn-secondary">Download</a>
             </div>
           </div>
-
-        </div>
-
-        <div class="col-md-3">
+        </article>
+        <article class="col-md-3">
           <div class="rec-item">
-
-            <div class="rec-icon">
-              <img src="assets/pie-chart.png" alt="Ícone">
-            </div>
-
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
-              <p class="rec-text">planilha</br>Microsoft Excel</p>
+              <p class="rec-text">Planilha</br>Microsoft Excel</p>
             </div>
-
             <div class="rec-btn">
               <a href="#" class="btn btn-secondary">Download</a>
             </div>
           </div>
-
-        </div>
+        </article>
+        <article class="col-md-3">
+          <div class="rec-item">
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
+            <div class="rec-content">
+              <h3 class="rec-text">Conteúdo no formato</h3>
+              <p class="rec-text">Planilha</br>Microsoft Excel</p>
+            </div>
+            <div class="rec-btn">
+              <a href="#" class="btn btn-secondary">Download</a>
+            </div>
+          </div>
+        </article>
+        <article class="col-md-3">
+          <div class="rec-item">
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
+            <div class="rec-content">
+              <h3 class="rec-text">Conteúdo no formato</h3>
+              <p class="rec-text">Planilha</br>Microsoft Excel</p>
+            </div>
+            <div class="rec-btn">
+              <a href="#" class="btn btn-secondary">Download</a>
+            </div>
+          </div>
+        </article>
+        <article class="col-md-3">
+          <div class="rec-item">
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
+            <div class="rec-content">
+              <h3 class="rec-text">Conteúdo no formato</h3>
+              <p class="rec-text">Planilha</br>Microsoft Excel</p>
+            </div>
+            <div class="rec-btn">
+              <a href="#" class="btn btn-secondary">Download</a>
+            </div>
+          </div>
+        </article>
       </div>
-
     </div>
-
   </section>
 </main>
 <?php require_once('footer.php'); ?>

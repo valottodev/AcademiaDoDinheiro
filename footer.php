@@ -43,7 +43,7 @@
             <input type="text" class="form-control" placeholder="Mensagem" aria-describedby="inputGroup-sizing-sm" />
           </div>
           <div class="my-5 text-right">
-            <button class="btn btn-primry">Enviar</button>
+            <button class="btn btn-primary">Enviar</button>
           </div>
         </form>
       </div>

@@ -1,22 +1,126 @@
-main.clinica {
-  width: 80vw;
-  margin: 0 auto;
+main.clinica ul {
+  list-style: none;
+  padding: 0;
 }
 
-main.clinica h1 {
-  text-align: center;
-  margin-bottom: 5vh;
+main.clinica ul li {
+  margin: 20px 0;
 }
 
-main.clinica li {
-  text-transform: none;
-  font-weight: normal;
-  padding-top: 10px;
+main.clinica strong {
+  font-family: "Roboto Bold"
 }
 
-main.clinica span {
-  font-weight: bold;
+main.clinica h2,
+main.clinica h3 {
+  font-family: "Roboto Black";
+  color: var(--main-color);
+  margin-bottom: 30px;
 }
+
+main.clinica p {
+  margin: 20px 0;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+main.clinica cite {
+  border-left: 5px solid var(--menu-color);
+  padding: 20px;
+  margin: 40px 20px 60px;
+  display: block;
+}
+
+main.clinica cite p {
+  margin: 0;
+  font-size: 22px;
+  font-style: none;
+  color: var(--menu-color);
+}
+
+
+main.clinica section.destaque,
+main.clinica section.agendamento {
+  background-color: var(--main-color);
+  color: #fff;
+  padding: 80px 0 60px;
+  margin: 50px 0 0;
+  width: 100%;
+  color: #fff;
+}
+
+main.clinica section.agendamento h3 {
+  color: #8BF7F6;
+}
+
+main.clinica section.agendamento .form-group {
+  margin-bottom: 20px;
+}
+
+main.clinica section.agendamento input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.774);
+  border-radius: 0;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+main.clinica section.agendamento h3 {
+  font-size: 35px;
+  line-height: 50px;
+}
+
+main.clinica section.agendamento input:focus {
+  border-bottom: 2px solid #8BF7F6;
+
+}
+
+
+main.clinica section.agendamento .btn {
+  background-color: var(--button-primary-color);
+  color: var(--main-color);
+  padding: 7px 25px;
+  border: none;
+  border-radius: 0;
+  font-family: "Roboto Black";
+  line-height: 22px;
+  font-size: 16px;
+}
+
+
+main.clinica section.agendamento ::-webkit-input-placeholder {
+  /* WebKit, Blink, Edge */
+  color: #BCE0FD !important;
+}
+
+main.clinica section.agendamento :-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #BCE0FD !important;
+  opacity: 1 !important;
+}
+
+main.clinica section.agendamento ::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #BCE0FD !important;
+  opacity: 1 !important;
+}
+
+main.clinica section.agendamento :-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #BCE0FD !important;
+}
+
+main.clinica section.agendamento ::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: #BCE0FD !important;
+}
+
+main.clinica section.agendamento ::placeholder {
+  /* Most modern browsers support this now. */
+  color: #BCE0FD !important;
+}
+
 
 main.clinica div.wrapper {
   display: flex;
