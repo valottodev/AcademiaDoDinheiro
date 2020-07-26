@@ -31,6 +31,13 @@ main.treinamento section.cursos h2 {
   margin: 30px;
 }
 
+main.treinamento section.cursos div.thumb {
+  width: 100%;
+  height: 240px;
+  background-size: cover;
+  background-position: center;
+}
+
 main.treinamento section span {
   background-image: url(../assets/christopher-campbell-rDEOVtE7vOs-unsplash.jpg);
   background-size: cover;
@@ -80,3 +87,4 @@ main.treinamento div.content-wrap img.garantia-logo {
 main.treinamento div.content-wrap p {
   font-size: large;
 }
+
