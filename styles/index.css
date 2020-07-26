@@ -16,7 +16,6 @@ div.content-card {
   padding: 25px 35px;
   width: 700px;
   max-width: 100%;
-  /* flex-wrap: wrap; */
 }
 
 .text-card p {

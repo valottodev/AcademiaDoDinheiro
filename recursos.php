@@ -1,16 +1,15 @@
 <?php require_once('header.php'); ?>
 <main class="recursos">
-
-  <section>
+  <section class="banner">
     <div class="container">
-      <div class="img-card">
-        <div class="content-card">
-          <div class="text-card">
+      <div class="img-card" style="background-image: url('assets/banner-recursos.png')">
+        <div class="content-card d-flex justify-content-between align-items-center flex-wrap flex-column flex-wrap">
+          <div class="titulo-card w-100 text-left">
             <h1>Recursos</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, pariatur veritatis reprehenderit harum sed tenetur porro distinctio dolore ducimus esse perferendis qui debitis recusandae voluptatem ad natus, nam a exercitationem?</p>
           </div>
-          <div class="button-card">
-            <a href="#" class="btn btn-dark btn-lg">Participe</a>
+          <div class="text-card d-flex justify-content-between align-items-start flex-wrap">
+            <p>Separamos diversos arquivos em planilhas e conteúdos em e-books que vão facilitar sua gestão financeira e
+              aprimorar seus conhecimentos.</p>
           </div>
         </div>
       </div>
@@ -18,27 +17,21 @@
   </section>
 
   <section class="recursos">
-
     <div class="container">
-
       <div class="row d-flex justify-content-between align-items-start flex-wrap">
         <div class="col-md-3">
           <div class="rec-item">
-
             <div class="rec-icon">
               <img src="assets/pie-chart.png" alt="Ícone">
             </div>
-
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
               <p class="rec-text">planilha</br>Microsoft Excel</p>
             </div>
-
             <div class="rec-btn">
-              <a href="#" class="btn btn-dark">Download</a>
+              <a href="#" class="btn btn-secondary">Download</a>
             </div>
           </div>
-
         </div>
 
         <div class="col-md-3">
@@ -53,26 +46,7 @@
             </div>
 
             <div class="rec-btn">
-              <a href="#" class="btn btn-dark">Download</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="col-md-3">
-          <div class="rec-item">
-
-            <div class="rec-icon">
-              <img src="assets/pie-chart.png" alt="Ícone">
-            </div>
-
-            <div class="rec-content">
-              <h3 class="rec-text">Conteúdo no formato</h3>
-              <p class="rec-text">planilha</br>Microsoft Excel</p>
-            </div>
-
-            <div class="rec-btn">
-              <a href="#" class="btn btn-dark">Download</a>
+              <a href="#" class="btn btn-secondary">Download</a>
             </div>
           </div>
 
@@ -91,7 +65,7 @@
             </div>
 
             <div class="rec-btn">
-              <a href="#" class="btn btn-dark">Download</a>
+              <a href="#" class="btn btn-secondary">Download</a>
             </div>
           </div>
 
@@ -110,7 +84,26 @@
             </div>
 
             <div class="rec-btn">
-              <a href="#" class="btn btn-dark">Download</a>
+              <a href="#" class="btn btn-secondary">Download</a>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="col-md-3">
+          <div class="rec-item">
+
+            <div class="rec-icon">
+              <img src="assets/pie-chart.png" alt="Ícone">
+            </div>
+
+            <div class="rec-content">
+              <h3 class="rec-text">Conteúdo no formato</h3>
+              <p class="rec-text">planilha</br>Microsoft Excel</p>
+            </div>
+
+            <div class="rec-btn">
+              <a href="#" class="btn btn-secondary">Download</a>
             </div>
           </div>
 
