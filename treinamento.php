@@ -70,7 +70,7 @@
             </a>
           </article>
         </div>
-        
+      </div>  
       <div class="row">
         <div class="col"><h2>O que elas dizem</h2></div>
       </div>

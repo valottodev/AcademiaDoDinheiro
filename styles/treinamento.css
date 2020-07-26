@@ -34,7 +34,7 @@ main.treinamento section.cursos {
 main.treinamento section.cursos h2 {
   font-size: xx-large;
   color: var(--main-color);
-  margin: 30px;
+  margin: 30px 0;
 }
 
 main.treinamento section.cursos div.thumb {
@@ -62,6 +62,7 @@ main.treinamento section.cursos div.description p {
 }
 
 main.treinamento div.person {
+  width: 100%;
   display: flex;
   flex-direction: column;
   color: var(--main-color);
