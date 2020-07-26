@@ -1,11 +1,11 @@
 main.blog div.img-head {
   height: 250px;
   background-color: lightgray;
-  margin: 30px;
 }
 
 main.blog div.redes img {
   width: 60px;
   height: 60px;
   padding: 5px;
+  margin: 20px 0;
 }

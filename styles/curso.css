@@ -2,6 +2,7 @@ main.curso h1,
 main.curso h2,
 main.curso h3 {
   color: var(--main-color);
+  font-family: Roboto Black;
 }
 
 main.curso div.img-head {
@@ -28,7 +29,7 @@ main.curso div.curso {
 main.curso div.thumb {
   height: 150px;
   width: 100%;
-  background-image: url(../assets/Grupo\ de\ máscara\ 1.png);
+  background-image: url(../assets/curso01.svg);
 }
 
 main.curso div.description {
