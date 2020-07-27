@@ -19,7 +19,7 @@
           <div class="input-group input-group-sm mb-3">
             <div class="input-group-prepend">
               <span class="input-group-text" id="inputGroup-sizing-sm">
-                <img src="assets/Icon-phone.svg" alt="icone telefone">
+                <img src="assets/icon-phone.svg" alt="icone telefone">
               </span>
             </div>
             <input type="text" class="form-control" placeholder="Telefone" aria-describedby="inputGroup-sizing-sm" />

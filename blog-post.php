@@ -85,7 +85,7 @@
             <p>Newsletter | Inscreva-se</p>
             <div class="input-group input-group-sm mb-3">
               <div class="input-group-prepend">
-                <span class="input-group-text" id="inputGroup-sizing-sm"><img src="assets/Icon-mail.svg" alt="icone usuário"></span>
+                <span class="input-group-text" id="inputGroup-sizing-sm"><img src="assets/icon-mail.svg" alt="icone usuário"></span>
               </div>
               <input type="text" class="form-control" placeholder="E-mail" aria-describedby="inputGroup-sizing-sm" id="mailNewsletter"/>
             </div>
