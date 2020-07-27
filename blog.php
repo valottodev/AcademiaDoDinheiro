@@ -3,7 +3,8 @@
   <section>
     <div class="container">
       <div class="top row d-flex justify-content-between">
-        <div class="col-md-9 img-first" style="background-image: url(assets/analytics-3265840_1920.png);">          
+        <div class="col-md-9 img-first" style="background-image: url(assets/analytics-3265840_1920.png);">
+          <div class="tag" style="margin-right: -342px"><small>Tag por tema</small></div>      
           <div class="title-card">
             <h1>Titulo em Roboto Black 70pt e BG 85%</h1>
           </div>
@@ -11,7 +12,7 @@
         <div class="col-md-3 post-top">
           <article>
             <a href="blog-post.php">
-              <div class="thumb" style="background-image: url(assets/blogthumb.png);"></div>
+              <div class="thumb" style="background-image: url(assets/blogthumb.png);"><div class="tag"><small>Tag por tema</small></div></div>
               <div class="description" style="color: #3C6B6A;">
                 <h3>Título da postagem em Roboto Black, 35pt</h3>
                 <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
@@ -50,7 +51,7 @@
         <div class="col-md-3 post-main">
           <article>
             <a href="blog-post.php">
-              <div class="thumb" style="background-image: url(assets/blog1.png); height: 200px;"></div>
+              <div class="thumb" style="background-image: url(assets/blog1.png); height: 200px;"><div class="tag"><small>Tag por tema</small></div></div>
               <div class="description" style="color: #3C6B6A;">
                 <h3>Título da postagem em Roboto Black, 35pt</h3>
                 <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
@@ -62,7 +63,7 @@
         <div class="col-md-3 post-main">
           <article>
             <a href="blog-post.php">
-              <div class="thumb" style="background-image: url(assets/blog2.png); height: 200px;"></div>
+              <div class="thumb" style="background-image: url(assets/blog2.png); height: 200px;"><div class="tag"><small>Tag por tema</small></div></div>
               <div class="description" style="color: #3C6B6A;">
                 <h3>Título da postagem em Roboto Black, 35pt</h3>
                 <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
@@ -74,7 +75,7 @@
         <div class="col-md-3 post-main">
           <article>
             <a href="blog-post.php">
-              <div class="thumb" style="background-image: url(assets/blog3.png); height: 200px;"></div>
+              <div class="thumb" style="background-image: url(assets/blog3.png); height: 200px;"><div class="tag"><small>Tag por tema</small></div></div>
               <div class="description" style="color: #3C6B6A;">
                 <h3>Título da postagem em Roboto Black, 35pt</h3>
                 <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
@@ -93,7 +94,7 @@
       <div class="row d-flex justify-content-between">
         <div class="col-md-6">
           <article class="d-flex main-card">
-            <div class="thumb" style="background-image: url(assets/man-in-black-holding-phone-618613.png); height: 240px"></div>
+            <div class="thumb" style="background-image: url(assets/man-in-black-holding-phone-618613.png); height: 240px"><div class="tag"><small>Tag por tema</small></div></div>
             <div class="description" style="height: 240px;">
               <h3>Título da postagem em Roboto Black, 35pt</h3>
               <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
@@ -104,31 +105,7 @@
 
         <div class="col-md-6">
           <article class="d-flex main-card">
-            <div class="thumb" style="background-image: url(assets/banner-recursos.png); height: 240px"></div>
-            <div class="description" style="height: 240px;">
-              <h3>Título da postagem em Roboto Black, 35pt</h3>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
-              <small>5 de Março de 2020</small>
-            </div>
-          </article>
-        </div>
-
-      </div>
-      <div class="row d-flex justify-content-between">
-        <div class="col-md-6">
-          <article class="d-flex main-card">
-            <div class="thumb" style="background-image: url(assets/curso03.png); height: 240px"></div>
-            <div class="description" style="height: 240px;">
-              <h3>Título da postagem em Roboto Black, 35pt</h3>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
-              <small>5 de Março de 2020</small>
-            </div>
-          </article>
-        </div>
-
-        <div class="col-md-6">
-          <article class="d-flex main-card">
-            <div class="thumb" style="background-image: url(assets/blog3.png); height: 240px"></div>
+            <div class="thumb" style="background-image: url(assets/banner-recursos.png); height: 240px"><div class="tag"><small>Tag por tema</small></div></div>
             <div class="description" style="height: 240px;">
               <h3>Título da postagem em Roboto Black, 35pt</h3>
               <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
@@ -141,7 +118,7 @@
       <div class="row d-flex justify-content-between">
         <div class="col-md-6">
           <article class="d-flex main-card">
-            <div class="thumb" style="background-image: url(assets/man-in-black-holding-phone-618613.png); height: 240px"></div>
+            <div class="thumb" style="background-image: url(assets/curso03.png); height: 240px"><div class="tag"><small>Tag por tema</small></div></div>
             <div class="description" style="height: 240px;">
               <h3>Título da postagem em Roboto Black, 35pt</h3>
               <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
@@ -152,7 +129,31 @@
 
         <div class="col-md-6">
           <article class="d-flex main-card">
-            <div class="thumb" style="background-image: url(assets/banner-recursos.png); height: 240px"></div>
+            <div class="thumb" style="background-image: url(assets/blog3.png); height: 240px"><div class="tag"><small>Tag por tema</small></div></div>
+            <div class="description" style="height: 240px;">
+              <h3>Título da postagem em Roboto Black, 35pt</h3>
+              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
+              <small>5 de Março de 2020</small>
+            </div>
+          </article>
+        </div>
+
+      </div>
+      <div class="row d-flex justify-content-between">
+        <div class="col-md-6">
+          <article class="d-flex main-card">
+            <div class="thumb" style="background-image: url(assets/man-in-black-holding-phone-618613.png); height: 240px"><div class="tag"><small>Tag por tema</small></div></div>
+            <div class="description" style="height: 240px;">
+              <h3>Título da postagem em Roboto Black, 35pt</h3>
+              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
+              <small>5 de Março de 2020</small>
+            </div>
+          </article>
+        </div>
+
+        <div class="col-md-6">
+          <article class="d-flex main-card">
+            <div class="thumb" style="background-image: url(assets/banner-recursos.png); height: 240px"><div class="tag"><small>Tag por tema</small></div></div>
             <div class="description" style="height: 240px;">
               <h3>Título da postagem em Roboto Black, 35pt</h3>
               <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>

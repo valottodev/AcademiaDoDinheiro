@@ -2,6 +2,16 @@ main.blog div.top{
   margin: 40px 0;
 }
 
+main.blog .tag {
+  text-transform: uppercase;
+  font-family: "Roboto Black";
+  color: #3C6B6A;
+  background-color: rgba(139, 247, 246, 0.8);
+  height: fit-content;
+  width: fit-content;
+  padding: 0 10px;
+}
+
 main.blog div.img-first {
   background-repeat: no-repeat;
   background-size: cover;
