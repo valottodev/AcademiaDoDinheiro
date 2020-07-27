@@ -35,40 +35,40 @@
             <div class="row">
               <div class="col-md-3">
                 <article>
-                  <a href="curso.php">
+                  <a href="blog-post.php">
                     <div class="thumb" style="background-image: url(assets/relacionados.png);"></div>
                     <div class="description" style="color: #3C6B6A;">
-                      <h4>Clique nesse curso para ver um exemplo</h4>
+                      <h4>Título da postagem em Roboto Black, 20pt</h4>
                     </div>
                   </a>
                 </article>
               </div> 
               <div class="col-md-3">
                 <article>
-                  <a href="curso.php">
+                  <a href="blog-post.php">
                     <div class="thumb" style="background-image: url(assets/relacionados.png);"></div>
                     <div class="description" style="color: #3C6B6A;">
-                      <h4>Clique nesse curso para ver um exemplo</h4>
+                      <h4>Título da postagem em Roboto Black, 20pt</h4>
                     </div>
                   </a>
                 </article>
               </div> 
               <div class="col-md-3">
                 <article>
-                  <a href="curso.php">
+                  <a href="blog-post.php">
                     <div class="thumb" style="background-image: url(assets/relacionados.png);"></div>
                     <div class="description" style="color: #3C6B6A;">
-                      <h4>Clique nesse curso para ver um exemplo</h4>
+                      <h4>Título da postagem em Roboto Black, 20pt</h4>
                     </div>
                   </a>
                 </article>
-              </div> 
+              </div>
               <div class="col-md-3">
                 <article>
-                  <a href="curso.php">
+                  <a href="blog-post.php">
                     <div class="thumb" style="background-image: url(assets/relacionados.png);"></div>
                     <div class="description" style="color: #3C6B6A;">
-                      <h4>Clique nesse curso para ver um exemplo</h4>
+                      <h4>Título da postagem em Roboto Black, 20pt</h4>
                     </div>
                   </a>
                 </article>
@@ -99,35 +99,35 @@
             <p class="tag-light">Mais lidos</p>
             
             <article>
-              <a href="curso.php">
+              <a href="blog-post.php">
                 <div class="thumb" style="background-image: url(assets/relacionados.png);"></div>
                 <div class="description" style="color: #3C6B6A;">
-                  <h4>Clique nesse curso para ver um exemplo</h4>
+                  <h4>Título da postagem em Roboto Black, 20pt</h4>
                 </div>
               </a>
             </article>
             
             <article>
-              <a href="curso.php">
+              <a href="blog-post.php">
                 <div class="thumb" style="background-image: url(assets/maislidos1.png);"></div>
                 <div class="description" style="color: #3C6B6A;">
-                  <h4>Clique nesse curso para ver um exemplo</h4>
+                  <h4>Título da postagem em Roboto Black, 20pt</h4>
                 </div>
               </a>
             </article>
             <article>
-              <a href="curso.php">
+              <a href="blog-post.php">
                 <div class="thumb" style="background-image: url(assets/maislidos2.png);"></div>
                 <div class="description" style="color: #3C6B6A;">
-                  <h4>Clique nesse curso para ver um exemplo</h4>
+                  <h4>Título da postagem em Roboto Black, 20pt</h4>
                 </div>
               </a>
             </article>
             <article>
-              <a href="curso.php">
+              <a href="blog-post.php">
                 <div class="thumb" style="background-image: url(assets/maislidos3.png);"></div>
                 <div class="description" style="color: #3C6B6A;">
-                  <h4>Clique nesse curso para ver um exemplo</h4>
+                  <h4>Título da postagem em Roboto Black, 20pt</h4>
                 </div>
               </a>
             </article>

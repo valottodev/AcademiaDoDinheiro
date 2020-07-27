@@ -1,71 +1,77 @@
-main.blog div.top-wrapper {
-  display: flex;
-  flex-direction: row;
-  width: 80vw;
-  margin: 0 auto;
+main.blog div.top{
+  margin: 40px 0;
 }
 
-main.blog div.img-card {
-  display: flex;
-  justify-content: flex-end;
-  min-height: 250px;
-  width: 80vw;
-  background-image: url(../assets/dollars.jpg);
+main.blog div.img-first {
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: top center;
+  padding: 0;
+  min-height: 400px;
+  display: flex;
+  justify-content: flex-end;
 }
 
 main.blog div.title-card {
-  color: white;
+  font-family: "Roboto Black";
+  color: #8BF7F6;
   background-color: rgba(60, 107, 106, 0.8);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin: 30px 30px 0;
-  padding: 30px;
-  flex-basis: 50%;
+  max-width: 40%;
+  height: fit-content;
+  margin: 50px 50px 0 0;
+  padding: 10px 15px;
+  text-align: right;
 }
 
-main.blog .text-card {
-  flex-basis: 50%;
+main.blog .post-top article {
+  height: 100%;
+}
+
+main.blog .post-top .thumb {
+  height: 45%;
+}
+
+main.blog .description {
+  height: 55%;
+  padding: 20px;
+}
+
+main.blog .description h3 {
+  font-size: 18px;
+}
+
+main.blog .description p {
+  font-size: 14px;
+}
+
+main.blog .post-top .description small {
+  font-size: 12px;
+  font-family: "Roboto Black";
 }
 
 main.blog div.blog-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin: 30px auto;
-  width: 90vw;
-  max-width: 100%;
-  flex-wrap: wrap;
+  margin-bottom: 30px;
 }
 
-main.blog div.buttons {
-  display: flex;
+main.blog div.blog-nav .btn {
+  padding: 8px 0;
+  margin-right: 10px;
+  font-size: 13px;
+  width: 100%;
+  height: 40px;
+  text-transform: uppercase;
 }
 
 main.blog div.blog-button {
-  min-height: 40px;
-  min-width: 200px;
   background-color: var(--main-color-light);
-  margin-right: 15px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin-right: 10px;
 }
 
 main.blog div.clinic-tag {
-  min-width: 600px;
-  min-height: 40px;
-  background-color: var(--main-color);
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  font-size: 15px;
 }
 
 main.blog .text-nav-blog {
-  text-transform: uppercase;
-  font-weight: bold;
   font-size: 15px;
 }
 
@@ -95,12 +101,12 @@ main.blog div.ad-mid {
   border: 2px solid black;
   height: 390px;
   width: 200px;
-  margin: 15px 20px;
+  margin-left: auto;
 }
 
-main.blog div.bot-wrapper {
-  display: flex;
-  justify-content: space-between;
+
+main.blog .main-card .description {
+  color: #3C6B6A;
 }
 
 main.blog div.mais {

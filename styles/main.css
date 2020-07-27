@@ -86,8 +86,6 @@ div.container-anuncio {
   display: block;
 }
 
-
-
 img.icon {
   height: 30px;
   width: 30px;
@@ -95,6 +93,10 @@ img.icon {
 
 div.social-media a {
   padding: 0 3px;
+}
+
+div.container {
+  padding: 0;
 }
 
 footer {
