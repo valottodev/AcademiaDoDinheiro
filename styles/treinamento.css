@@ -4,7 +4,6 @@ main.treinamento h1,h2,h3,h4 {
 
 main.treinamento div.img-card {
   min-height: 250px;
-  background-image: url(../assets/scott-graham-5fNmWej4tAA-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -97,7 +96,7 @@ main.treinamento div.garantia {
 }
 
 main.treinamento div.garantia div.garantia-logo {
-  background-image: url(../assets/img-119702-20170424153829.svg);
+  background-image: url(../assets/img-1.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 200px;

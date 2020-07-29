@@ -52,9 +52,9 @@
           </ul>
         </div>
         <div class="social-media">
-          <a href="https://www.youtube.com/user/profmaurocalil" target="_blank"><img src="assets/youtube.png" alt="youtube" class="icon" /></a>
-          <a href="https://www.instagram.com/academiadodinheiro/" target="_blank"><img src="assets/instagram-sketched.png" alt="instagram" class="icon" /></a>
-          <a href="/search"><img src="assets/search.png" alt="busca" class="icon search" /></a>
+          <a href="https://www.youtube.com/user/profmaurocalil" target="_blank"><img src="assets/youtube.svg" alt="youtube" class="icon" /></a>
+          <a href="https://www.instagram.com/academiadodinheiro/" target="_blank"><img src="assets/instagram.svg" alt="instagram" class="icon" /></a>
+          <a href="/search"><img src="assets/search.svg" alt="busca" class="icon search" /></a>
         </div>
       </div>
     </nav>

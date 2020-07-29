@@ -37,7 +37,7 @@
 
         <aside class="col-md-3 offset-md-1 lateral">
           <div class="curso">
-            <div class="thumb" style="background-image: url('assets/low-angle-photography-of-building-structure-1.png');"></div>
+            <div class="thumb" style="background-image: url('assets/curso01.png');"></div>
             <div class="description">
               <h1>Nome do Curso</h1>
             </div>

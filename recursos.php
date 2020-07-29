@@ -21,7 +21,7 @@
       <div class="row d-flex justify-content-center align-items-center flex-wrap">
         <article class="col-md-3">
           <div class="rec-item">
-            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.svg')"></div>
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
               <p class="rec-text">Planilha</br>Microsoft Excel</p>
@@ -33,7 +33,7 @@
         </article>
         <article class="col-md-3">
           <div class="rec-item">
-            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.svg')"></div>
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
               <p class="rec-text">Planilha</br>Microsoft Excel</p>
@@ -45,7 +45,7 @@
         </article>
         <article class="col-md-3">
           <div class="rec-item">
-            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.svg')"></div>
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
               <p class="rec-text">Planilha</br>Microsoft Excel</p>
@@ -57,7 +57,7 @@
         </article>
         <article class="col-md-3">
           <div class="rec-item">
-            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.svg')"></div>
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
               <p class="rec-text">Planilha</br>Microsoft Excel</p>
@@ -69,7 +69,7 @@
         </article>
         <article class="col-md-3">
           <div class="rec-item">
-            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.svg')"></div>
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
               <p class="rec-text">Planilha</br>Microsoft Excel</p>
@@ -81,7 +81,7 @@
         </article>
         <article class="col-md-3">
           <div class="rec-item">
-            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.svg')"></div>
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
               <p class="rec-text">Planilha</br>Microsoft Excel</p>
@@ -93,7 +93,7 @@
         </article>
         <article class="col-md-3">
           <div class="rec-item">
-            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.svg')"></div>
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
               <p class="rec-text">Planilha</br>Microsoft Excel</p>
@@ -105,7 +105,7 @@
         </article>
         <article class="col-md-3">
           <div class="rec-item">
-            <div class="rec-icon" style="background-image: url('assets/pie-chart.png')"></div>
+            <div class="rec-icon" style="background-image: url('assets/pie-chart.svg')"></div>
             <div class="rec-content">
               <h3 class="rec-text">Conteúdo no formato</h3>
               <p class="rec-text">Planilha</br>Microsoft Excel</p>

@@ -2,7 +2,7 @@
 <main class="treinamento">
   <section class="banner">
     <div class="container">
-      <div class="img-card" style="background-image: url('assets/people-coffee-meeting-team-7096.svg')">
+      <div class="img-card" style="background-image: url('assets/people-coffee-meeting-team-7096.png')">
         <div class="content-card d-flex justify-content-between align-items-center flex-wrap flex-column flex-wrap">
           <div class="titulo-card w-100 text-left">
             <h1>Treinamentos</h1>
@@ -26,7 +26,7 @@
         <div class="col-md-3">
           <article>
             <a href="curso.php">
-              <div class="thumb" style="background-image: url(assets/curso01.svg);"></div>
+              <div class="thumb" style="background-image: url(assets/curso01.png);"></div>
               <div class="description" style="background-color: #3C6B6A; color: #8BF7F6;">
                 <h3>Clique nesse curso para ver um exemplo</h3>
                 <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
@@ -38,7 +38,7 @@
         <div class="col-md-3">
           <article>
             <a href="curso.php">
-              <div class="thumb" style="background-image: url(assets/curso02.svg);"></div>
+              <div class="thumb" style="background-image: url(assets/curso02.png);"></div>
               <div class="description" style="background-color: #5FAAA9; color: #3C6B6A;">
                 <h3>Aposentadoria e renda com fundos imobiliários</h3>
                 <p>Descrição do Curso</p>
@@ -50,7 +50,7 @@
         <div class="col-md-3">
           <article>
             <a href="curso.php">
-              <div class="thumb" style="background-image: url(assets/curso03.svg);"></div>
+              <div class="thumb" style="background-image: url(assets/curso03.png);"></div>
               <div class="description" style="background-color: #67B8B6; color: #3C6B6A;">
                 <h3>Gestão vencedora de finanças para negócios</h3>
                 <p>Descrição do Curso</p>
@@ -62,7 +62,7 @@
         <div class="col-md-3">
           <article>
             <a href="curso.php">
-              <div class="thumb" style="background-image: url(assets/curso04.svg);"></div>
+              <div class="thumb" style="background-image: url(assets/curso04.png);"></div>
               <div class="description" style="background-color: #8BF7F6; color: #3C6B6A;">
                 <h3>Finanças turbinadas</h3>
                 <p>Descrição do Curso</p>
@@ -78,28 +78,28 @@
 
       <div class="row">
         <div class="person col-md-3">
-          <div class="person-img" style="background-image: url(assets/pessoa01.svg);">
+          <div class="person-img" style="background-image: url(assets/pessoa01.png);">
             <span></span>
           </div>          
           <h3>Nome da Pessoa</h3>
         </div>
 
         <div class="person col-md-3">
-          <div class="person-img" style="background-image: url(assets/pessoa02.svg);">
+          <div class="person-img" style="background-image: url(assets/pessoa02.png);">
             <span></span>
           </div>          
           <h3>Nome da Pessoa</h3>
         </div>
 
         <div class="person col-md-3">
-          <div class="person-img" style="background-image: url(assets/pessoa03.svg);">
+          <div class="person-img" style="background-image: url(assets/pessoa03.png);">
             <span></span>
           </div>          
           <h3>Nome da Pessoa</h3>
         </div>
 
         <div class="person col-md-3">
-          <div class="person-img" style="background-image: url(assets/pessoa04.svg);">
+          <div class="person-img" style="background-image: url(assets/pessoa04.png);">
             <span></span>
           </div>          
           <h3>Nome da Pessoa</h3>
