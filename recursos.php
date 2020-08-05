@@ -3,7 +3,7 @@
   <section class="banner">
     <div class="container">
       <div class="img-card" style="background-image: url('assets/banner-recursos.png')">
-        <div class="content-card d-flex justify-content-between align-items-center flex-wrap flex-column flex-wrap">
+        <div class="content-card d-flex justify-content-between align-items-center flex-wrap flex-row">
           <div class="titulo-card w-100 text-left">
             <h1>Recursos</h1>
           </div>

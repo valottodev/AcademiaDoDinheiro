@@ -26,7 +26,7 @@
     <div class="container">
       <div class="diferenciais row d-flex justify-content-between align-items-center">
         <div class="col-md-5 text-center">
-          <div class="ceo-img" style="background-image: url('assets/ceo.png')">
+          <div class="ceo-img" style="background-image: url('assets/ceo.png');">
           </div>
         </div>
         <div class="text col-md-7">

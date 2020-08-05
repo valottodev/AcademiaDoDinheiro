@@ -43,6 +43,10 @@ header {
   align-items: center;
 }
 
+.row {
+  margin: 0;
+}
+
 header nav.navbar-light {
   width: 100%;
   padding: 18px 0;

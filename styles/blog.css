@@ -26,7 +26,7 @@ main.blog div.title-card {
   font-family: "Roboto Black";
   color: #8BF7F6;
   background-color: rgba(60, 107, 106, 0.8);
-  max-width: 40%;
+  width: 40%;
   height: fit-content;
   margin: 50px 50px 0 0;
   padding: 10px 15px;
